@@ -99,6 +99,7 @@ linters:
           allow:
             - $gostd
             - github.com/gammazero/deque
+            - github.com/vladopajic/go-actor/actor
         test:
           files:
             - $test
