@@ -6,7 +6,7 @@
 [![GoDoc](https://godoc.org/github.com/vladopajic/go-actor?status.svg)](https://godoc.org/github.com/vladopajic/go-actor)
 [![Release](https://img.shields.io/github/v/release/vladopajic/go-actor?color=%23007ec6)](https://github.com/vladopajic/go-actor/releases/latest)
 
-![goactor-cover](https://user-images.githubusercontent.com/4353513/185381081-2e2a07f3-c13a-4946-a250-b2cbe6588f60.png)
+![goactor-cover](https://github.com/user-attachments/assets/c7fd54fc-45ea-45a5-8707-bea1526a2f74)
 
 `go-actor` is a lightweight library for writing concurrent programs in Go using the Actor model.
 
